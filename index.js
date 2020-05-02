@@ -23,5 +23,3 @@ function sayHiToGrandma(string)
 {
   
 }
-
-
